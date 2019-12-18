@@ -4,7 +4,7 @@ title: The life of a Tinkerer
 description: Personal Webpage of Cameron Buss
 email: camrbuss@vt.edu
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://camrbuss.github.io/camrbuss/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://camrbuss.github.io/camsite/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  camrbuss
 
 # Build settings
