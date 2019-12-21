@@ -4,8 +4,9 @@ title: Timeline
 permalink: /timeline/
 ---
 
-Timeline
+# {{ page.title }}
 
+### The following is a timeline of the major events in my life.
 
 
  <div class="timeline">
@@ -14,7 +15,7 @@ Timeline
     {% if sideAlternator == true %}
   <div class="container left">
     <div class="content">
-      <h2>{{ event.date }}</h2>
+      <h3>{{ event.date }}</h3>
       <p>{{ event.name }}</p>
     </div>
   </div>
@@ -22,7 +23,7 @@ Timeline
     {% else %}
   <div class="container right">
     <div class="content">
-      <h2>{{ event.date }}</h2>
+      <h3>{{ event.date }}</h3>
       <p>{{ event.name }}</p>
     </div>
   </div>
