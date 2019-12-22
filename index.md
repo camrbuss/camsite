@@ -12,5 +12,7 @@ Welcome
     </a>
   </h2>
   <p>{{ project.description }}</p>
-  <img src="{{ project.image | prepend: site.baseurl }}" />
+  <a href="{{ project.url | prepend: site.baseurl }}">
+    <img src="{{ project.image | prepend: site.baseurl }}" />
+  </a>
 {% endfor %}
