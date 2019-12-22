@@ -7,6 +7,10 @@ baseurl: "/camsite" # the subpath of your site, e.g. /blog
 url: "https://camrbuss.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  camrbuss
 
+collections:
+  projects:
+    output: true
+
 sass:
   sass_dir: _sass
   style: compressed
