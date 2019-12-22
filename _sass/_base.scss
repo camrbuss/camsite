@@ -44,6 +44,16 @@
      max-width: 100%;
      vertical-align: middle;
  }
+
+
+/**
+* Videos
+*/
+ iframe {
+    width: 50vw; 
+    height: 28.125vw; /* 100/56.25 = 560/315 = 1.778 */
+    background:white;  
+}
  
  
  
