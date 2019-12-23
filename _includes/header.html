@@ -11,7 +11,18 @@
       <nav class="site-nav">
 
         <div class="trigger">
-          <a class="page-link" href="{{ site.baseurl }}/"> Projects </a>
+
+          <div class="dropdown">
+            <a class="dropbtn" href="{{ site.baseurl }}/"> Projects </a>
+            <div class="dropdown-content">
+              {% for project in site.projects %}
+                  <a href="{{ project.url | prepend: site.baseurl }}">
+                    {{ project.name }}
+                  </a>
+              {% endfor %}
+            </div>
+          </div> 
+
           {% for page in site.pages %}
             {% if page.title %}
             <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
