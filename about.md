@@ -8,7 +8,7 @@ permalink: /about/
 
 My name is Cameron Buss and I am an Engineer that studied Mechanical Engineering at [Virginia Tech](https://vt.edu/). I grew up a mere 7 blocks away from the Virginia Tech campus in the quaint but rapidly growing town of Blacksburg. My life is divided between time with family, manual labor at the family farm, rock climbing, and my engineering endeavors.
 
-My [projects page]({{ "/" | prepend : site.baseurl }}) lists some of the creations I have made in the past, and below is a list of projects that I would like to take on in the near future:
+Checkout my [Timeline]({{ "/timeline/" | prepend : site.baseurl }}) page for a little bit about my major life events, but the highlight of this website is my projects. My [projects page]({{ "/" | prepend : site.baseurl }}) lists some of the creations I have made in the past, and below is a list of projects that I would like to take on in the near future:
 
 - Tall Bike (Two bike frames stacked on top of each other)
 - Brushless motor driven CNC laser cutter
