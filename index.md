@@ -3,7 +3,7 @@ layout: default
 permalink: /
 ---
 
-Welcome 
+Welcome to my (Cam) personal website. Take a look at my projects, photography, and a sneak peek into my life. 
 
 {% for project in site.projects %}
   <h2>
