@@ -1,7 +1,7 @@
 ---
 layout: projects
 name: Laser Engraved Macbook
-description: A 2" Turners Cube made on a Tormach CNC
+description: A geometric engraving of my macbook using a galvo controlled metal engraver
 image: /assets/engravedmacbook.jpg
 permalink: /engravedmacbook/
 ---
