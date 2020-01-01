@@ -13,6 +13,6 @@ Welcome to my (Cam) personal website. Take a look at my projects, photography, a
   </h2>
   <p>{{ project.description }}</p>
   <a href="{{ project.url | prepend: site.baseurl }}">
-    <img src="{{ project.image | prepend: site.baseurl }}" />
+    <img src="{{ project.image | prepend: site.baseurl }}" width="1024px"/>
   </a>
 {% endfor %}
