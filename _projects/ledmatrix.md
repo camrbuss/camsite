@@ -6,7 +6,7 @@ image: /assets/ledmatrix.jpg
 permalink: /ledmatrix/
 ---
 
-This project came about so that I could learn more about PCB design and manufacture. The design is featured around a 100mm X 100mm board size constraint from PCBWay. The design uses 16 PNP transistors, to control eacho row and column for full multiplexing. The ESP8266 is used to control two shift registers, which are connected to the transistors. The ESP8266 then hosts a webserver that is access from a phone to turn the display on or off. 
+This project came about so that I could learn more about PCB design and manufacture. The design is featured around a 100mm X 100mm board size constraint from PCBWay. The design uses 16 PNP transistors, to control each row and column for full multiplexing. The ESP8266 is used to control two shift registers, which are connected to the transistors. The ESP8266 then hosts a webserver that is access from a phone to turn the display on or off. 
 
 Check out the [Source on Github](https://github.com/camrbuss/8x8-led-matrix) for more information.
 
