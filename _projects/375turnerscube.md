@@ -1,6 +1,7 @@
 ---
 layout: projects
 name: Turners Cube
+title: Turners Cube
 description: A 2" Turners Cube made on a Tormach CNC
 image: /assets/turnerscube.jpg
 permalink: /turnerscube/

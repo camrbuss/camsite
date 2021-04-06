@@ -1,6 +1,7 @@
 ---
 layout: projects
 name: VT Hyperloop Braking Design
+title: VT Hyperloop Braking Design
 description: Braking array for the 2017 Hyperloop challenge
 image: /assets/hyperloopbrakes.jpg
 permalink: /hyperloopbrakes/

@@ -1,6 +1,7 @@
 ---
 layout: projects
 name: 3D Printed Folding Quadcopter
+title: 3D Printed Folding Quadcopter
 description: SLS printed folding quadcopter for disposable drones
 image: /assets/printedquadcopter.png
 permalink: /printedquadcopter/

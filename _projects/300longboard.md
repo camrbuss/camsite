@@ -1,6 +1,7 @@
 ---
 layout: projects
 name: Longboard
+title: Longboard
 description: White Maple Longbaord
 image: /assets/longboard.jpg
 permalink: /longboard/

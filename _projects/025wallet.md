@@ -1,6 +1,7 @@
 ---
 layout: projects
 name: RFID Secure Wallet
+title: RFID Secure Wallet
 description: 6061 Aluminum Wallet to minimize size
 image: /assets/wallet.jpg
 permalink: /wallet/

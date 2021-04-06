@@ -1,6 +1,7 @@
 ---
 layout: projects
 name: 8X8 LED Matrix PCB
+title: 8X8 LED Matrix PCB
 description: PCB design of an 8X8 LED Matrix
 image: /assets/ledmatrix.jpg
 permalink: /ledmatrix/

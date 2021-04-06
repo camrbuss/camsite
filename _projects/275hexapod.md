@@ -1,6 +1,7 @@
 ---
 layout: projects
 name: Hexapod
+title: Hexapod
 description: 3DOF Leg Aluminum Hexapod
 image: /assets/hexapod.jpg
 permalink: /hexapod/

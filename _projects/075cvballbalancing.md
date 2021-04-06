@@ -1,6 +1,7 @@
 ---
 layout: projects
 name: OpenCV Ball Balancing
+title: OpenCV Ball Balancing
 description: PID balanced ball with python OpenCV
 image: /assets/cvballbalancing.jpg
 permalink: /cvballbalancing/

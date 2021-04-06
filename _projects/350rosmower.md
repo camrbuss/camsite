@@ -1,6 +1,7 @@
 ---
 layout: projects
 name: ROS Mower
+title: ROS Mower
 description: Simple robotic rover to mow the lawn using ROS
 image: /assets/rosmower.jpg
 permalink: /rosmower/

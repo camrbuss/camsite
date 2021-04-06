@@ -1,6 +1,7 @@
 ---
 layout: projects
 name: Conway's Game of Life
+title: Conway's Game of Life
 description: Conway's Game of Life on a FPGA, 32-bit MCU, and 64-bit CPU
 image: /assets/gameoflife.gif
 permalink: /gameoflife/
@@ -42,6 +43,6 @@ be determined in one clock cycle. This worked, but ate through the iCE40UP5K LUT
 I then realized that I needed to use RAM in some form to store the current and future state of the game. This unveiled a whole new world of
 FPGAs to me and I went down the path of learning implicit and explicit BRAM/SPRAM. I really needed to use BRAM, but for some reason I could not
 get Yosys to infer BRAM correctly and the explicit BRAM definition also did not seem to be working. For this reason, I used explicit SPRAM and a lot of it.
-See the GitHub repository for details on the implementation, but in short it takes about 2000 clock cycles to determine th next state which seems like a lot,
+See the GitHub repository for details on the implementation, but in short it takes about 2000 clock cycles to determine the next state which seems like a lot,
 but at 24MHz you can play the game faster than the eye can see.
 <center><img src="{{ '/assets/gameoflife/gameoflife1.png' | prepend: site.baseurl }}" /></center><br/>

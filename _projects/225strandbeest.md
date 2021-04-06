@@ -1,6 +1,7 @@
 ---
 layout: projects
 name: Strandbeest
+title: Strandbeest
 description: The Strandbeest is a kinetic sculpture inspired by Theo Jansen
 image: /assets/strandbeest.jpg
 permalink: /strandbeest/

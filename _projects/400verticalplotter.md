@@ -1,6 +1,7 @@
 ---
 layout: projects
 name: Vertical Plotter
+title: Vertical Plotter
 description: A vertical plotter to shade with pens
 image: /assets/verticalplotter.png
 permalink: /verticalplotter/

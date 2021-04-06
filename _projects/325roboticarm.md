@@ -1,6 +1,7 @@
 ---
 layout: projects
 name: Robotic Arm Additive Manufacturing
+title: Robotic Arm Additive Manufacturing
 description: ABB robotic arm with a plastic welder for 3D printing
 image: /assets/roboticarm.png
 permalink: /roboticarm/

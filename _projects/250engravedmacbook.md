@@ -1,6 +1,7 @@
 ---
 layout: projects
 name: Laser Engraved Macbook
+title: Laser Engraved Macbook
 description: A geometric engraving of my macbook using a galvo controlled metal engraver
 image: /assets/engravedmacbook.jpg
 permalink: /engravedmacbook/

@@ -1,6 +1,7 @@
 ---
 layout: projects
 name: AutoDrive Autonomous Car Challenge
+title: AutoDrive Autonomous Car Challenge
 description: 2018 Virginia Tech autonomous car competition with GM's AutoDrive
 image: /assets/vtautodrive.jpg
 permalink: /vtautodrive/
